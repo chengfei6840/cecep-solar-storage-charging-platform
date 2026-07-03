@@ -1,0 +1,6 @@
+{
+  "name": "中节能光储充智能管理平台",
+  "description": "基于 Agentic 协同治理架构的中节能光伏、储能、充电桩一体化能源管理与智能运营平台。集成多源接入、标准化监测、收益核算、告警闭环、协同策略仿真与 Agent 协作推演。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
